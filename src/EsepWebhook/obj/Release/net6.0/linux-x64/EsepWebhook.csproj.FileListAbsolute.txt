@@ -1,0 +1,17 @@
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.deps.json
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CopyComplete
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/refint/EsepWebhook.dll
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll
