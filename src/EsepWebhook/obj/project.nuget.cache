@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OdKSkBE6o7dTuuwYzCdSqFJqf+A8pk/DymI25fsAwekoE/r/1fRnXB7nCfD75iQUwpEEEYFXe7l0+vAGv1U0kA==",
+  "dgSpecHash": "IEL9vouqX7xCD1g0xHiF3GOXRi2wqU+ODdfEDbgmUuIKuiGfWv8hdNA+OLCe52mvDhMX2dAo9QR0HZNbtzP+QA==",
   "success": true,
   "projectFilePath": "/Users/jgranado/Desktop/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/jgranado/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/jgranado/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/jgranado/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/jgranado/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
     "/Users/jgranado/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
     "/Users/jgranado/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
